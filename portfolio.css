@@ -499,3 +499,9 @@ li{
    -moz-border-radius: 10px;
     border-radius: 10px;
 }
+#box030{
+    position: absolute;
+    top: 1535px;
+    height: 80px;
+    left: 950px;
+}
